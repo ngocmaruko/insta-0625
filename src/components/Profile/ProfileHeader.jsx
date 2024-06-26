@@ -10,7 +10,7 @@ export const ProfileHeader = () => {
         alignSelf={'flex-start'}
         mx={'auto'}
       >
-        <Avatar name='keocamxuc' src='/profilepic.png' alt=''keocamxuc logo/>
+        <Avatar name='keocamxuc' src='/profilepic.png' alt='keocamxuc logo' />
       </AvatarGroup>
       <VStack alignItems={'start'} gap={2} mx={'auto'} flex={1}>
         <Flex gap={4} direction={{base:'column', sm:'row'}}
