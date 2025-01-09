@@ -18,15 +18,15 @@ Features
 - Technology Stack
   - Frontend: React, Chakra UI, React Router
   - Authentication: Custom authentication forms for logging in.
-　- UI Design: Styled with Chakra UI components for responsiveness and accessibility.
+  - UI Design: Styled with Chakra UI components for responsiveness and accessibility.
   - Routing: React Router for navigating between pages (Home, Auth, Profile).
 
 - Getting Started
-Clone the repository: git clone https://github.com/ngocmaruko/insta-0625.git
-Navigate to the project directory: cd insta-0625
-Install dependencies: npm install
-Start the development server: npm run dev
-Open http://localhost:5173 to view the app in your browser.
+  - Clone the repository: git clone https://github.com/ngocmaruko/insta-0625.git
+  - Navigate to the project directory: cd insta-0625
+  - Install dependencies: npm install
+  - Start the development server: npm run dev
+  - Open http://localhost:5173 to view the app in your browser.
 
 - Future Enhancements
   - Implement backend for user authentication and post management.
