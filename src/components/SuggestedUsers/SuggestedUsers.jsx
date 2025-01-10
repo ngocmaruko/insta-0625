@@ -16,9 +16,9 @@ export const SuggestedUsers = () => {
         </Text>
       </Flex>
 
-      <SuggestedUser name='Hưng Lê' followers={100} avatar='http://bit.ly/dan-abramov'/>
-      <SuggestedUser name='Minh Đặng' followers={99} avatar='http://bit.ly/ryan-florence'/>
-      <SuggestedUser name='Nguyễn Hà' followers={98} avatar='http://bit.ly/code-beast'/>
+      <SuggestedUser name='Hưng Lê' followers={100} avatar='/suggest1.jpg'/>
+      <SuggestedUser name='Minh Đặng' followers={99} avatar='/suggest2.jpg'/>
+      <SuggestedUser name='Nguyễn Hà' followers={98} avatar='/suggest3.jpg'/>
       
       <Box fontSize={12} color={'gray.500'} mt={5}>
         © 2024 Built by{' '}
